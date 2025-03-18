@@ -1,8 +1,10 @@
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 
-local premiumUsersURL = "httpshttps://raw.githubusercontent.com/Mathersg4/software/refs/heads/main/premium.json"
+-- Ссылка на CSV-файл с премиум-пользователями (ваша ссылка)
+local premiumUsersURL = "https://raw.githubusercontent.com/Mathersg4/software/refs/heads/main/premium.csv"
 
+-- Функция для загрузки данных по URL
 local function fetchData(url)
     local success, response = pcall(game.HttpGet, game, url)
     if not success then
@@ -12,12 +14,18 @@ local function fetchData(url)
     return response
 end
 
--- Загрузка списка премиум-пользователей
+-- Загрузка списка премиум-пользователей из CSV
 local function loadPremiumUsers()
-    local premiumData = fetchData(premiumUsersURL)
-    if premiumData then
-        local decodedData = HttpService:JSONDecode(premiumData)
-        shared.premiumUserIds = decodedData.premiumUsers or {}
+    local csvData = fetchData(premiumUsersURL)
+    if csvData then
+        local lines = csvData:split("\n")
+        for _, line in ipairs(lines) do
+            local parts = line:split(",")
+            if #parts >= 1 and parts[1] ~= "" then
+                local userId = parts[1]
+                table.insert(shared.premiumUserIds, userId)
+            end
+        end
         print("Loaded premium users:", #shared.premiumUserIds)
     else
         warn("Failed to load premium users data.")
@@ -42,7 +50,8 @@ end
 
 -- Функция для проверки премиум-статуса
 local function isPremiumUser(player)
-    return table.find(shared.premiumUserIds, simpleHash(tostring(player.UserId))) ~= nil
+    local hashedUserId = simpleHash(tostring(player.UserId))
+    return table.find(shared.premiumUserIds, hashedUserId) ~= nil
 end
 
 -- Функция для изменения интерфейса премиум-пользователей
